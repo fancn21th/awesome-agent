@@ -18,6 +18,7 @@
 
 - [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) - Latest public benchmark performance for SOTA models, featuring results from GPQA Diamond, AIME 2025, SWE-Bench, Humanity's Last Exam, ARC-AGI 2, MMMLU, and more.
 - [Claw-Eval](https://claw-eval.github.io/) - Trustworthy evaluation benchmark for autonomous agents, covering general, multi-turn, and multimodal tasks with safety-aware scoring.
+- [ProjDevBench](https://github.com/zsworld6/projdevbench) - Benchmark for evaluating AI coding agents on end-to-end project development, with dual evaluation (Online Judge + LLM code review), Docker isolation, and support for Claude Code, Cursor, Gemini CLI, Codex, Augment, and Copilot.
 
 ## Platforms
 
