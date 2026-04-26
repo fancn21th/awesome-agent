@@ -40,6 +40,8 @@
 
 ## Tutorials
 
+- [Agentic Design Patterns](https://adp.xindoo.xyz/) - Systematic introduction to AI agent design patterns, covering prompt chaining, routing, parallelization, reflection, tool use, planning, multi-agent collaboration, memory management, learning and adaptation, MCP, and more.
+
 ## Community
 
 ## Contributing
