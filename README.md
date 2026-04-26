@@ -30,6 +30,7 @@
 ## Skills
 
 - [Obsidian Skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian, teaching your coding agent to use Obsidian Markdown, Bases, JSON Canvas, CLI, and Defuddle. Follows the Agent Skills specification, compatible with Claude Code, Codex CLI, OpenCode, and more.
+- [Anthropic Skills](https://github.com/anthropics/skills) - Anthropic's official skill collection for Claude Code, including skill-creator (create, evaluate, and optimize skills with benchmarking), and more.
 
 ## Tools
 
