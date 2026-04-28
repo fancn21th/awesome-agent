@@ -17,6 +17,7 @@
 ## Agents
 
 - [A List of Claude Code Agents](https://github.com/hesreallyhim/a-list-of-claude-code-agents) - Community-submitted collection of Claude Code sub-agents and agent frameworks.
+- [Agentics](https://github.com/githubnext/agentics) - Sample pack of reusable GitHub Agentic Workflows for repository maintenance, code review, CI analysis, security scanning, documentation updates, and more.
 
 ## Applications
 
@@ -39,6 +40,7 @@
 ## Skills
 
 - [Anthropic Skills](https://github.com/anthropics/skills) - Anthropic's official skill collection for Claude Code, including skill-creator (create, evaluate, and optimize skills with benchmarking), and more.
+- [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skills) - Curated collection of 1100+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [Obsidian Skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian, teaching your coding agent to use Obsidian Markdown, Bases, JSON Canvas, CLI, and Defuddle. Follows the Agent Skills specification, compatible with Claude Code, Codex CLI, OpenCode, and more.
 - [Startup Claude Skills](https://github.com/EricTechPro/startup-claude-skills) - Reusable Claude Code skills for startups, covering bug fixing, feature development, PR review, automated review-fix loops, and headless browser QA testing.
 
