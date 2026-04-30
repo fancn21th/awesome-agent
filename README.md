@@ -39,6 +39,7 @@
 
 ## Skills
 
+- [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills) by Jiayuan Zhang - Karpathy-inspired CLAUDE.md guidelines addressing LLM coding pitfalls with four principles: think before coding, simplicity first, surgical changes, and goal-driven execution.
 - [Anthropic Skills](https://github.com/anthropics/skills) by Anthropic - Anthropic's official skill collection for Claude Code, including skill-creator (create, evaluate, and optimize skills with benchmarking), and more.
 - [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skills) by VoltAgent - Curated collection of 1100+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [Obsidian Skills](https://github.com/kepano/obsidian-skills) by Steph Ango - Agent skills for Obsidian, teaching your coding agent to use Obsidian Markdown, Bases, JSON Canvas, CLI, and Defuddle. Follows the Agent Skills specification, compatible with Claude Code, Codex CLI, OpenCode, and more.
