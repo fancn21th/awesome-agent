@@ -60,6 +60,7 @@ English | [中文](README_zh.md)
 - [Agentic Design Patterns](https://adp.xindoo.xyz/) by xindoo - Systematic introduction to AI agent design patterns, covering prompt chaining, routing, parallelization, reflection, tool use, planning, multi-agent collaboration, memory management, learning and adaptation, MCP, and more.
 - [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) by Anthropic - Anthropic's guide on building LLM agents with simple, composable patterns — covers augmented LLM, prompt chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer, and autonomous agents, with practical advice on tool engineering.
 - [Learn Claude Code](https://learn.shareai.run/en/) by CrazyBoyM / shareAI-lab - 19 chapters across 4 stages, from the minimal agent loop to a multi-agent platform, covering tool use, subagents, skills, context compaction, permissions, hooks, memory, error recovery, task scheduling, team protocols, worktree isolation, and MCP.
+- [YouTube Tutorials](https://github.com/owainlewis/youtube-tutorials/tree/main/tutorials) by Owain Lewis - Self-contained companion repos for YouTube tutorials on practical AI automation patterns, covering RAG, agent teams, background agents, multi-agent systems, spec-driven development, and more.
 
 ## Contributing
 
