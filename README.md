@@ -2,6 +2,8 @@
 
 > A curated list of awesome AI agents, frameworks, tools, and resources.
 
+English | [中文](README_zh.md)
+
 ## Contents
 
 - [Agents](#agents)
