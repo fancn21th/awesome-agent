@@ -8,6 +8,7 @@
 - [Applications](#applications)
 - [Frameworks](#frameworks)
 - [LLM Leaderboard](#llm-leaderboard)
+- [News](#news)
 - [Platforms](#platforms)
 - [Research](#research)
 - [Skills](#skills)
@@ -32,6 +33,10 @@
 - [Claw-Eval](https://claw-eval.github.io/) by Bowen Ye & Lei Li (PKU/HKU) - Trustworthy evaluation benchmark for autonomous agents, covering general, multi-turn, and multimodal tasks with safety-aware scoring.
 - [ProjDevBench](https://github.com/zsworld6/projdevbench) by Pengrui Lu - Benchmark for evaluating AI coding agents on end-to-end project development, with dual evaluation (Online Judge + LLM code review), Docker isolation, and support for Claude Code, Cursor, Gemini CLI, Codex, Augment, and Copilot.
 - [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard) by Vellum - Latest public benchmark performance for SOTA models, featuring results from GPQA Diamond, AIME 2025, SWE-Bench, Humanity's Last Exam, ARC-AGI 2, MMMLU, and more.
+
+## News
+
+- [AI HOT](https://aihot.virxact.com/agent) by Virxact - Curated AI news aggregator with daily digests and trend tracking, offering REST API, RSS, and SKILL.md integration for coding agents.
 
 ## Platforms
 
