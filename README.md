@@ -12,6 +12,7 @@ English | [中文](README_zh.md)
 - [LLM Leaderboard](#llm-leaderboard)
 - [News](#news)
 - [Platforms](#platforms)
+- [Pricing](#pricing)
 - [Research](#research)
 - [Skills](#skills)
 - [Tools](#tools)
@@ -41,6 +42,10 @@ English | [中文](README_zh.md)
 - [AI HOT](https://aihot.virxact.com/agent) by Virxact - Curated AI news aggregator with daily digests and trend tracking, offering REST API, RSS, and SKILL.md integration for coding agents.
 
 ## Platforms
+
+## Pricing
+
+- [OpenAI API Pricing](https://developers.openai.com/api/docs/pricing#web-search) by OpenAI - Official API pricing reference covering flagship, multimodal, specialized, and fine-tuning models, plus tool costs for web search, file search, containers, and agent kit.
 
 ## Research
 
