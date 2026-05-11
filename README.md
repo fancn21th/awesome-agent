@@ -57,6 +57,7 @@ English | [中文](README_zh.md)
 - [Matt Pocock Skills](https://github.com/mattpocock/skills) by Matt Pocock - Small, composable agent skills for real engineering — covers grilling sessions, TDD, diagnosis loops, codebase architecture improvement, triage, and domain-driven documentation. Compatible with Claude Code, Codex, and other coding agents.
 - [Obsidian Skills](https://github.com/kepano/obsidian-skills) by Steph Ango - Agent skills for Obsidian, teaching your coding agent to use Obsidian Markdown, Bases, JSON Canvas, CLI, and Defuddle. Follows the Agent Skills specification, compatible with Claude Code, Codex CLI, OpenCode, and more.
 - [Startup Claude Skills](https://github.com/EricTechPro/startup-claude-skills) by Eric Tech - Reusable Claude Code skills for startups, covering bug fixing, feature development, PR review, automated review-fix loops, and headless browser QA testing.
+- [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) by NextLevelBuilder - AI skill for professional UI/UX development with intelligent design-system generation, multi-platform stack guidance, and practical workflow support for coding agents.
 
 ## Tools
 
