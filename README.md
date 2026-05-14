@@ -64,8 +64,11 @@ English | [中文](README_zh.md)
 ## Tutorials
 
 - [Agentic Design Patterns](https://adp.xindoo.xyz/) by xindoo - Systematic introduction to AI agent design patterns, covering prompt chaining, routing, parallelization, reflection, tool use, planning, multi-agent collaboration, memory management, learning and adaptation, MCP, and more.
+- [Harness Engineering: from Claude Code to AI Coding](https://zhanghandong.github.io/harness-engineering-from-cc-to-ai-coding/) by Handong Zhang - Practical guide to harness engineering for AI coding workflows, covering setup patterns, agent collaboration, and implementation practices.
 - [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) by Anthropic - Anthropic's guide on building LLM agents with simple, composable patterns — covers augmented LLM, prompt chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer, and autonomous agents, with practical advice on tool engineering.
 - [Learn Claude Code](https://learn.shareai.run/en/) by CrazyBoyM / shareAI-lab - 19 chapters across 4 stages, from the minimal agent loop to a multi-agent platform, covering tool use, subagents, skills, context compaction, permissions, hooks, memory, error recovery, task scheduling, team protocols, worktree isolation, and MCP.
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) by DAIR.AI - Comprehensive guide to prompt engineering techniques, examples, and best practices for modern LLM applications.
+- [Beginners Guide to Machine Learning in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by The Coding Train - Beginner-friendly playlist introducing machine learning concepts and practical implementations in JavaScript.
 - [YouTube Tutorials](https://github.com/owainlewis/youtube-tutorials/tree/main/tutorials) by Owain Lewis - Self-contained companion repos for YouTube tutorials on practical AI automation patterns, covering RAG, agent teams, background agents, multi-agent systems, spec-driven development, and more.
 
 ## Contributing
