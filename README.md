@@ -8,6 +8,7 @@ English | [中文](README_zh.md)
 
 - [Agents](#agents)
 - [Applications](#applications)
+- [Evals](#evals)
 - [Frameworks](#frameworks)
 - [LLM Leaderboard](#llm-leaderboard)
 - [News](#news)
@@ -24,6 +25,10 @@ English | [中文](README_zh.md)
 - [Agentics](https://github.com/githubnext/agentics) by GitHub Next - Sample pack of reusable GitHub Agentic Workflows for repository maintenance, code review, CI analysis, security scanning, documentation updates, and more.
 
 ## Applications
+
+## Evals
+
+- [evals](https://developers.openai.com/cookbook/topic/evals) - OpenAI Cookbook topic page for evaluation examples, patterns, and guidance.
 
 ## Frameworks
 

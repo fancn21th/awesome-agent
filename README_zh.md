@@ -8,6 +8,7 @@
 
 - [智能体](#智能体)
 - [应用](#应用)
+- [Evals](#evals)
 - [框架](#框架)
 - [LLM 排行榜](#llm-排行榜)
 - [资讯](#资讯)
@@ -24,6 +25,10 @@
 - [Agentics](https://github.com/githubnext/agentics) by GitHub Next - 可复用的 GitHub Agentic Workflows 示例包，涵盖仓库维护、代码审查、CI 分析、安全扫描、文档更新等。
 
 ## 应用
+
+## Evals
+
+- [evals](https://developers.openai.com/cookbook/topic/evals) - OpenAI Cookbook 的评测主题页，涵盖评估示例、模式与实践指南。
 
 ## 框架
 
@@ -64,8 +69,11 @@
 ## 教程
 
 - [Agentic Design Patterns](https://adp.xindoo.xyz/) by xindoo - AI 智能体设计模式系统介绍，涵盖提示链、路由、并行化、反思、工具使用、规划、多智能体协作、记忆管理、学习与适应、MCP 等。
+- [Harness Engineering: from Claude Code to AI Coding](https://zhanghandong.github.io/harness-engineering-from-cc-to-ai-coding/) by Handong Zhang - 面向 AI 编程工作流的实用指南，涵盖环境搭建模式、智能体协作与实现实践。
 - [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) by Anthropic - Anthropic 关于使用简单可组合模式构建 LLM 智能体的指南——涵盖增强 LLM、提示链、路由、并行化、编排-工作者、评估-优化器和自主智能体，附工具工程实践建议。
 - [Learn Claude Code](https://learn.shareai.run/en/) by CrazyBoyM / shareAI-lab - 4 阶段 19 章，从最小智能体循环到多智能体平台，涵盖工具使用、子智能体、技能、上下文压缩、权限、钩子、记忆、错误恢复、任务调度、团队协议、工作树隔离和 MCP。
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) by DAIR.AI - 面向现代 LLM 应用的提示工程综合指南，涵盖技术、示例与最佳实践。
+- [Beginners Guide to Machine Learning in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by The Coding Train - 面向初学者的机器学习 JavaScript 播放列表，介绍核心概念与实践实现。
 - [YouTube Tutorials](https://github.com/owainlewis/youtube-tutorials/tree/main/tutorials) by Owain Lewis - 面向 AI 自动化模式的 YouTube 教程配套独立仓库，涵盖 RAG、智能体团队、后台智能体、多智能体系统、规范驱动开发等。
 
 ## 贡献
