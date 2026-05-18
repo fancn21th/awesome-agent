@@ -63,6 +63,7 @@ English | [中文](README_zh.md)
 - [Obsidian Skills](https://github.com/kepano/obsidian-skills) by Steph Ango - Agent skills for Obsidian, teaching your coding agent to use Obsidian Markdown, Bases, JSON Canvas, CLI, and Defuddle. Follows the Agent Skills specification, compatible with Claude Code, Codex CLI, OpenCode, and more.
 - [Startup Claude Skills](https://github.com/EricTechPro/startup-claude-skills) by Eric Tech - Reusable Claude Code skills for startups, covering bug fixing, feature development, PR review, automated review-fix loops, and headless browser QA testing.
 - [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) by NextLevelBuilder - AI skill for professional UI/UX development with intelligent design-system generation, multi-platform stack guidance, and practical workflow support for coding agents.
+- [Vercel React Best Practices](https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md) by Vercel - React and Next.js performance optimization guidelines with 70 rules across 8 categories for writing, reviewing, and refactoring frontend code.
 
 ## Tools
 

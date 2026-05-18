@@ -63,6 +63,7 @@
 - [Obsidian Skills](https://github.com/kepano/obsidian-skills) by Steph Ango - 面向 Obsidian 的智能体技能，教编程智能体使用 Obsidian Markdown、Bases、JSON Canvas、CLI 和 Defuddle。遵循 Agent Skills 规范，兼容 Claude Code、Codex CLI、OpenCode 等。
 - [Startup Claude Skills](https://github.com/EricTechPro/startup-claude-skills) by Eric Tech - 面向初创团队的可复用 Claude Code 技能，涵盖 Bug 修复、功能开发、PR 审查、自动审查-修复循环和无头浏览器 QA 测试。
 - [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) by NextLevelBuilder - 面向编程智能体的专业 UI/UX AI 技能，提供智能设计系统生成、多平台栈指导与实用工作流支持。
+- [Vercel React Best Practices](https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md) by Vercel - 面向 React 和 Next.js 的性能优化指南，包含 8 大类别下的 70 条规则，适用于前端代码编写、审查与重构。
 
 ## 工具
 
