@@ -56,6 +56,7 @@
 
 ## 技能
 
+- [Agent Skills](https://github.com/addyosmani/agent-skills) by Addy Osmani - 面向 AI 编程智能体的生产级工程技能包，覆盖 23 个生命周期技能、斜杠命令、专家 persona 与以验证为核心的工作流。
 - [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills) by Jiayuan Zhang - 受 Karpathy 启发的 CLAUDE.md 指南，针对 LLM 编程缺陷提出四项原则：先思考再编码、简洁优先、精准修改、目标驱动执行。
 - [Anthropic Skills](https://github.com/anthropics/skills) by Anthropic - Anthropic 官方 Claude Code 技能集，包括 skill-creator（创建、评估和优化技能并提供基准测试）等。
 - [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skills) by VoltAgent - 精选 1100+ 智能体技能合集，来自官方开发团队和社区，兼容 Claude Code、Codex、Gemini CLI、Cursor 等。

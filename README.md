@@ -56,6 +56,7 @@ English | [中文](README_zh.md)
 
 ## Skills
 
+- [Agent Skills](https://github.com/addyosmani/agent-skills) by Addy Osmani - Production-grade engineering skills for AI coding agents, covering 23 lifecycle skills, slash commands, personas, and verification-driven workflows.
 - [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills) by Jiayuan Zhang - Karpathy-inspired CLAUDE.md guidelines addressing LLM coding pitfalls with four principles: think before coding, simplicity first, surgical changes, and goal-driven execution.
 - [Anthropic Skills](https://github.com/anthropics/skills) by Anthropic - Anthropic's official skill collection for Claude Code, including skill-creator (create, evaluate, and optimize skills with benchmarking), and more.
 - [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skills) by VoltAgent - Curated collection of 1100+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
