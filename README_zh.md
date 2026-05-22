@@ -29,6 +29,12 @@
 ## Evals
 
 - [evals](https://developers.openai.com/cookbook/topic/evals) - OpenAI Cookbook 的评测主题页，涵盖评估示例、模式与实践指南。
+- [Evaluating the Effectiveness of LLM-Evaluators (aka LLM-as-a-Judge)](https://eugeneyan.com/writing/llm-evaluators/) by Eugene Yan - 深入分析 LLM-as-a-judge 的优势、失效模式与评估权衡。
+- [AI Agent Observability & Evaluation](https://huggingface.co/learn/agents-course/bonus-unit2/introduction) by Hugging Face - 聚焦 AI 智能体可观测性与评估的课程章节。
+- [Frequently Asked Questions (And Answers) About AI Evals](https://hamel.dev/blog/posts/evals-faq/) by Hamel Husain - 围绕评测设计、流程与度量问题的实用问答。
+- [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/) by Hamel Husain - 论证为何应将 evals 作为 AI 产品开发的一等公民。
+- [Creating an LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/) by Hamel Husain - 讲解如何设计与业务结果对齐的 judge-based evals。
+- [Voice AI Evals](https://github.com/kwindla/evals-course-voice) by Kwindla Hultman Kramer - 用于测试语音 AI 智能体与工作流的开放评测仓库。
 
 ## 框架
 
@@ -45,6 +51,10 @@
 ## 资讯
 
 - [AI HOT](https://aihot.virxact.com/agent) by Virxact - AI 资讯聚合与每日精选，支持趋势追踪，提供 REST API、RSS 及 SKILL.md 编程智能体集成。
+- [AI News](https://buttondown.com/ainews) - 汇总 Discord、Reddit 与 X 上重要 AI 讨论的每日通讯。
+- [Last Week in AI](https://www.lastweekinai.com/) - 每周覆盖 AI 新闻与研究进展的播客和通讯。
+- [Latent Space](https://www.latent.space/podcast) - 聚焦前沿 AI 议题深度解析与访谈的播客。
+- [Stratechery](https://stratechery.com/) - 关注科技战略、行业分析与 AI 趋势的通讯和播客。
 
 ## 平台
 
@@ -53,6 +63,8 @@
 - [OpenAI API Pricing](https://developers.openai.com/api/docs/pricing#web-search) by OpenAI - OpenAI 官方 API 定价参考，覆盖旗舰、多模态、专项与微调模型，并包含 Web Search、File Search、Containers 与 Agent Kit 等工具成本。
 
 ## 研究
+
+- [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608) - 系统梳理提示技术、模式与 LLM 系统评估考量的综述论文。
 
 ## 技能
 
@@ -68,6 +80,8 @@
 
 ## 工具
 
+- [The OSS LLMOps Stack](https://oss-llmops-stack.com/) by LiteLLM and Langfuse - 覆盖模型路由、可观测性与生产工作流的开源 LLMOps 栈参考页面。
+
 ## 教程
 
 - [Agentic Design Patterns](https://adp.xindoo.xyz/) by xindoo - AI 智能体设计模式系统介绍，涵盖提示链、路由、并行化、反思、工具使用、规划、多智能体协作、记忆管理、学习与适应、MCP 等。
@@ -77,6 +91,21 @@
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) by DAIR.AI - 面向现代 LLM 应用的提示工程综合指南，涵盖技术、示例与最佳实践。
 - [Beginners Guide to Machine Learning in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by The Coding Train - 面向初学者的机器学习 JavaScript 播放列表，介绍核心概念与实践实现。
 - [YouTube Tutorials](https://github.com/owainlewis/youtube-tutorials/tree/main/tutorials) by Owain Lewis - 面向 AI 自动化模式的 YouTube 教程配套独立仓库，涵盖 RAG、智能体团队、后台智能体、多智能体系统、规范驱动开发等。
+- [Learn Prompting](https://learnprompting.org/docs) - 面向提示技术与 LLM 使用模式的结构化文档与指南。
+- [How to prompt o1](https://www.latent.space/p/o1-skill-issue) by Ben Hylak - 深入讨论如何为并非针对聊天交互优化的推理模型设计提示。
+- [Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) by Anthropic - 关于如何为智能体系统组织与管理上下文的实践指南。
+- [Hugging Face Agents Course](https://huggingface.co/agents-course) by Hugging Face - 免费的 AI 智能体构建、使用与评估课程。
+- [How We Built Ellipsis](https://www.ellipsis.dev/blog/how-we-built-ellipsis) by Nick Bradford - 回顾 27 个月构建 LLM 编码智能体的工程实践。
+- [Don’t Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents#principles-of-context-engineering) by Walden Yan - 主张以更简单的系统和上下文工程替代不必要的多智能体复杂度。
+- [We Built a Multi-Agent Research System](https://www.anthropic.com/engineering/built-multi-agent-research-system) by Anthropic - 介绍多智能体研究工作流的设计与运行案例。
+- [What We Learned from a Year of Building with LLMs](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/) by Eugene Yan, Bryan Bischof, Charles Frye, Hamel Husain, Jason Liu, and Shreya Shankar - 总结构建、评估与运营 LLM 系统的一年期三篇系列实战经验。
+- [Traceability and Observability in Multi-Step LLM Systems](https://langfuse.com/guides/videos/webinar-observability-llm-systems) by Marc Klingen - 介绍多步骤 LLM 应用追踪与可观测性的 Webinar。
+- [Data Flywheels for LLM Applications](https://www.sh-reya.com/blog/ai-engineering-flywheel/) by Shreya Shankar - 讲解如何通过数据飞轮持续改进 LLM 产品的实践文章。
+- [Latency optimization](https://platform.openai.com/docs/guides/latency-optimization) by OpenAI - 用于降低 LLM 应用端到端延迟的 Cookbook 指南。
+- [Voice AI & Voice Agents - An Illustrated Primer](https://voiceaiandvoiceagents.com/) by Kwindla Hultman Kramer - 语音 AI 系统与语音智能体的图解入门读物。
+- [Evaluating Voice AI Agents](https://langfuse.com/blog/2025-01-22-evaluating-voice-ai-agents) by Marc Klingen and Brooke Hopkins - 讲解如何在真实工作流中评估语音 AI 智能体。
+- [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy - 面向初学者介绍 LLM 核心概念与思维模型的演讲。
+- [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw) by Andrej Karpathy - 分享如何高效日常使用 LLM 的实践演讲。
 
 ## 贡献
 
