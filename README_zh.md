@@ -14,6 +14,7 @@
 - [资讯](#资讯)
 - [平台](#平台)
 - [定价](#定价)
+- [提示词](#提示词)
 - [研究](#研究)
 - [技能](#技能)
 - [工具](#工具)
@@ -62,9 +63,14 @@
 
 - [OpenAI API Pricing](https://developers.openai.com/api/docs/pricing#web-search) by OpenAI - OpenAI 官方 API 定价参考，覆盖旗舰、多模态、专项与微调模型，并包含 Web Search、File Search、Containers 与 Agent Kit 等工具成本。
 
-## 研究
+## 提示词
 
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608) - 系统梳理提示技术、模式与 LLM 系统评估考量的综述论文。
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) by DAIR.AI - 面向现代 LLM 应用的提示工程综合指南，涵盖技术、示例与最佳实践。
+- [Learn Prompting](https://learnprompting.org/docs) - 面向提示技术与 LLM 使用模式的结构化文档与指南。
+- [How to prompt o1](https://www.latent.space/p/o1-skill-issue) by Ben Hylak - 深入讨论如何为并非针对聊天交互优化的推理模型设计提示。
+
+## 研究
 
 ## 技能
 
@@ -88,11 +94,8 @@
 - [Harness Engineering: from Claude Code to AI Coding](https://zhanghandong.github.io/harness-engineering-from-cc-to-ai-coding/) by Handong Zhang - 面向 AI 编程工作流的实用指南，涵盖环境搭建模式、智能体协作与实现实践。
 - [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) by Anthropic - Anthropic 关于使用简单可组合模式构建 LLM 智能体的指南——涵盖增强 LLM、提示链、路由、并行化、编排-工作者、评估-优化器和自主智能体，附工具工程实践建议。
 - [Learn Claude Code](https://learn.shareai.run/en/) by CrazyBoyM / shareAI-lab - 4 阶段 19 章，从最小智能体循环到多智能体平台，涵盖工具使用、子智能体、技能、上下文压缩、权限、钩子、记忆、错误恢复、任务调度、团队协议、工作树隔离和 MCP。
-- [Prompt Engineering Guide](https://www.promptingguide.ai/) by DAIR.AI - 面向现代 LLM 应用的提示工程综合指南，涵盖技术、示例与最佳实践。
 - [Beginners Guide to Machine Learning in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) by The Coding Train - 面向初学者的机器学习 JavaScript 播放列表，介绍核心概念与实践实现。
 - [YouTube Tutorials](https://github.com/owainlewis/youtube-tutorials/tree/main/tutorials) by Owain Lewis - 面向 AI 自动化模式的 YouTube 教程配套独立仓库，涵盖 RAG、智能体团队、后台智能体、多智能体系统、规范驱动开发等。
-- [Learn Prompting](https://learnprompting.org/docs) - 面向提示技术与 LLM 使用模式的结构化文档与指南。
-- [How to prompt o1](https://www.latent.space/p/o1-skill-issue) by Ben Hylak - 深入讨论如何为并非针对聊天交互优化的推理模型设计提示。
 - [Effective Context Engineering for AI Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) by Anthropic - 关于如何为智能体系统组织与管理上下文的实践指南。
 - [Hugging Face Agents Course](https://huggingface.co/agents-course) by Hugging Face - 免费的 AI 智能体构建、使用与评估课程。
 - [How We Built Ellipsis](https://www.ellipsis.dev/blog/how-we-built-ellipsis) by Nick Bradford - 回顾 27 个月构建 LLM 编码智能体的工程实践。
