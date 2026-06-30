@@ -56,6 +56,7 @@ English | [中文](README_zh.md)
 - [Last Week in AI](https://www.lastweekinai.com/) - Weekly podcast and newsletter covering AI news and research.
 - [Latent Space](https://www.latent.space/podcast) - Podcast with deep dives and interviews on frontier AI topics.
 - [Stratechery](https://stratechery.com/) - Newsletter and podcast focused on tech strategy, industry analysis, and AI trends.
+- [Smol AI News](https://news.smol.ai/) by smol.ai - Daily AI newsletter with curated links, commentary, and key updates across models, tools, and research.
 
 ## Platforms
 
@@ -65,6 +66,7 @@ English | [中文](README_zh.md)
 
 ## Prompts
 
+- [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) by asgeirtj - Curated collection of leaked and public system prompts from AI products for analysis and comparison.
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608) - Survey paper covering prompting techniques, patterns, and evaluation considerations for LLM systems.
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) by DAIR.AI - Comprehensive guide to prompt engineering techniques, examples, and best practices for modern LLM applications.
 - [Learn Prompting](https://learnprompting.org/docs) - Structured documentation and guides for prompting techniques and LLM usage patterns.
