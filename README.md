@@ -112,6 +112,7 @@ English | [中文](README_zh.md)
 - [Evaluating Voice AI Agents](https://langfuse.com/blog/2025-01-22-evaluating-voice-ai-agents) by Marc Klingen and Brooke Hopkins - Guide to evaluating voice AI agents in real-world workflows.
 - [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy - Beginner-friendly talk introducing core LLM concepts and mental models.
 - [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw) by Andrej Karpathy - Practical talk on effective day-to-day use of LLMs.
+- [AI Engineer Workshop 2026](https://www.aihero.dev/ai-engineer-workshop-2026~dwnll) by AI Hero - Hands-on workshop resource for AI engineering practices, tools, and workflows.
 
 ## Contributing
 
