@@ -14,6 +14,7 @@
 - [框架](#框架)
 - [LLM 排行榜](#llm-排行榜)
 - [资讯](#资讯)
+- [个人推荐](#个人推荐)
 - [平台](#平台)
 - [定价](#定价)
 - [提示词](#提示词)
@@ -58,6 +59,7 @@
 - [Last Week in AI](https://www.lastweekinai.com/) - 每周覆盖 AI 新闻与研究进展的播客和通讯。
 - [Latent Space](https://www.latent.space/podcast) - 聚焦前沿 AI 议题深度解析与访谈的播客。
 - [Stratechery](https://stratechery.com/) - 关注科技战略、行业分析与 AI 趋势的通讯和播客。
+- [Smol AI News](https://news.smol.ai/) by smol.ai - 聚合模型、工具与研究动态的 AI 每日通讯，附精选链接与评论。
 
 ## 平台
 
@@ -67,6 +69,7 @@
 
 ## 提示词
 
+- [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) by asgeirtj - 用于分析与比较 AI 产品系统提示词的公开与泄露提示词精选合集。
 - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608) - 系统梳理提示技术、模式与 LLM 系统评估考量的综述论文。
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) by DAIR.AI - 面向现代 LLM 应用的提示工程综合指南，涵盖技术、示例与最佳实践。
 - [Learn Prompting](https://learnprompting.org/docs) - 面向提示技术与 LLM 使用模式的结构化文档与指南。
@@ -78,6 +81,7 @@
 
 - [Agent Skills](https://github.com/addyosmani/agent-skills) by Addy Osmani - 面向 AI 编程智能体的生产级工程技能包，覆盖 23 个生命周期技能、斜杠命令、专家 persona 与以验证为核心的工作流。
 - [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills) by Jiayuan Zhang - 受 Karpathy 启发的 CLAUDE.md 指南，针对 LLM 编程缺陷提出四项原则：先思考再编码、简洁优先、精准修改、目标驱动执行。
+- [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills) by Multica AI - 受 Karpathy 启发的 Claude Code 指南，用于规避 LLM 编程陷阱，强调先思考再编码、简洁优先、精准修改与目标驱动执行。
 - [Anthropic Skills](https://github.com/anthropics/skills) by Anthropic - Anthropic 官方 Claude Code 技能集，包括 skill-creator（创建、评估和优化技能并提供基准测试）等。
 - [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skills) by VoltAgent - 精选 1100+ 智能体技能合集，来自官方开发团队和社区，兼容 Claude Code、Codex、Gemini CLI、Cursor 等。
 - [Matt Pocock Skills](https://github.com/mattpocock/skills) by Matt Pocock - 面向真实工程的小型可组合智能体技能——涵盖深度审查、TDD、诊断循环、代码架构改进、分类和领域驱动文档。兼容 Claude Code、Codex 及其他编程智能体。
@@ -111,6 +115,11 @@
 - [Evaluating Voice AI Agents](https://langfuse.com/blog/2025-01-22-evaluating-voice-ai-agents) by Marc Klingen and Brooke Hopkins - 讲解如何在真实工作流中评估语音 AI 智能体。
 - [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy - 面向初学者介绍 LLM 核心概念与思维模型的演讲。
 - [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw) by Andrej Karpathy - 分享如何高效日常使用 LLM 的实践演讲。
+- [AI Engineer Workshop 2026](https://www.aihero.dev/ai-engineer-workshop-2026~dwnll) by AI Hero - 面向 AI 工程实践、工具与工作流的动手工作坊资源。
+
+## 个人推荐
+
+- [What Is An AI Engineer?](https://www.aihero.dev/what-is-an-ai-engineer) by AI Hero - 清晰介绍 AI 工程师的角色定义、核心技能，以及它与机器学习工程和提示工程的区别。
 
 ## 贡献
 

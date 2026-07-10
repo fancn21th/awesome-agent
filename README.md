@@ -14,6 +14,7 @@ Learning Tips: [AI Usage Tips](AI_TRICKS.md) | [中文版本](AI_TRICKS_zh.md)
 - [Frameworks](#frameworks)
 - [LLM Leaderboard](#llm-leaderboard)
 - [News](#news)
+- [Personal Recommendations](#personal-recommendations)
 - [Platforms](#platforms)
 - [Pricing](#pricing)
 - [Prompts](#prompts)
@@ -39,7 +40,7 @@ Learning Tips: [AI Usage Tips](AI_TRICKS.md) | [中文版本](AI_TRICKS_zh.md)
 - [Creating an LLM-as-a-Judge That Drives Business Results](https://hamel.dev/blog/posts/llm-judge/) by Hamel Husain - Guide to designing judge-based evals that align with business outcomes.
 - [Voice AI Evals](https://github.com/kwindla/evals-course-voice) by Kwindla Hultman Kramer - Open evaluation repo for testing voice AI agents and workflows.
 
-## Frameworks
+## Spec Driven Frameworks
 
 - [Get Shit Done](https://github.com/gsd-build/get-shit-done) by GSD - A lightweight meta-prompting, context engineering, and spec-driven development system that solves context rot with fresh subagent sessions, parallel wave execution, and atomic git commits. Supports 15+ AI coding runtimes.
 - [gstack](https://github.com/garrytan/gstack) by Garry Tan - Garry Tan's virtual engineering team for Claude Code — 23 opinionated slash-command skills covering CEO review, design, engineering, QA, security audit, and release, with real browser automation and multi-agent coordination.
@@ -115,6 +116,10 @@ Learning Tips: [AI Usage Tips](AI_TRICKS.md) | [中文版本](AI_TRICKS_zh.md)
 - [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy - Beginner-friendly talk introducing core LLM concepts and mental models.
 - [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw) by Andrej Karpathy - Practical talk on effective day-to-day use of LLMs.
 - [AI Engineer Workshop 2026](https://www.aihero.dev/ai-engineer-workshop-2026~dwnll) by AI Hero - Hands-on workshop resource for AI engineering practices, tools, and workflows.
+
+## Personal Recommendations
+
+- [What Is An AI Engineer?](https://www.aihero.dev/what-is-an-ai-engineer) by AI Hero - Clear introduction to AI engineering, covering the role definition, core skills, and how it differs from ML engineering and prompt engineering.
 
 ## Contributing
 
