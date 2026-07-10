@@ -4,6 +4,8 @@
 
 English | [中文](README_zh.md)
 
+Learning Tips: [AI Usage Tips](AI_TRICKS.md) | [中文版本](AI_TRICKS_zh.md)
+
 ## Contents
 
 - [Agents](#agents)

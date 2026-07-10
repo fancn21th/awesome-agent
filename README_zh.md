@@ -4,6 +4,8 @@
 
 [English](README.md) | 中文
 
+学习技巧：[English Version](AI_TRICKS.md) | [AI 使用技巧](AI_TRICKS_zh.md)
+
 ## 目录
 
 - [智能体](#智能体)
