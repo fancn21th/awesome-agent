@@ -63,6 +63,8 @@ Learning Tips: [AI Usage Tips](AI_TRICKS.md) | [中文版本](AI_TRICKS_zh.md)
 
 ## Platforms
 
+- [models.dev](https://models.dev/) - Open-source database for exploring AI models, capabilities, context limits, and pricing.
+
 ## Pricing
 
 - [OpenAI API Pricing](https://developers.openai.com/api/docs/pricing#web-search) by OpenAI - Official API pricing reference covering flagship, multimodal, specialized, and fine-tuning models, plus tool costs for web search, file search, containers, and agent kit.
