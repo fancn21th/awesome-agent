@@ -48,6 +48,7 @@ Companion Guides: [Agent Level](AGENT_LEVEL.md) | [RAG Level](RAG_LEVEL.md) | [A
 
 ## Runtime, Tooling, and Production Ops
 
+- [Writing Effective Tools for Agents — with Agents](https://www.anthropic.com/research/writing-tools-for-agents) - Anthropic's guide to designing, evaluating, and improving tools for AI agents.
 - [The OSS LLMOps Stack](https://oss-llmops-stack.com/) by LiteLLM and Langfuse - Reference page for an open-source LLMOps stack spanning model routing, observability, and production workflows.
 - [OpenAI API Pricing](https://developers.openai.com/api/docs/pricing#web-search) by OpenAI - Official API pricing reference covering flagship, multimodal, specialized, and fine-tuning models, plus tool costs for web search, file search, containers, and agent kit.
 - [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) by asgeirtj - Curated collection of leaked and public system prompts from AI products for analysis and comparison.
@@ -83,13 +84,14 @@ This layer follows the delivery chain from requirement and architecture to codin
 
 ### Skills
 
-- [Agent Skills](https://github.com/addyosmani/agent-skills) by Addy Osmani - Production-grade engineering skills for AI coding agents, covering 23 lifecycle skills, slash commands, personas, and verification-driven workflows.
+- [**Agent Skills**](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills by Addy Osmani for AI coding agents, covering lifecycle skills and verification-driven workflows.
 - [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills) by Jiayuan Zhang - Karpathy-inspired CLAUDE.md guidelines addressing LLM coding pitfalls with four principles: think before coding, simplicity first, surgical changes, and goal-driven execution.
 - [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills) by Multica AI - Karpathy-inspired Claude Code guidelines for avoiding LLM coding pitfalls with think-before-coding, simplicity-first, surgical changes, and goal-driven execution.
 - [Anthropic Skills](https://github.com/anthropics/skills) by Anthropic - Anthropic's official skill collection for Claude Code, including skill-creator (create, evaluate, and optimize skills with benchmarking), and more.
 - [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skills) by VoltAgent - Curated collection of 1100+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
-- [Matt Pocock Skills](https://github.com/mattpocock/skills) by Matt Pocock - Small, composable agent skills for real engineering — covers grilling sessions, TDD, diagnosis loops, codebase architecture improvement, triage, and domain-driven documentation. Compatible with Claude Code, Codex, and other coding agents.
+- [**Matt Pocock Skills**](https://github.com/mattpocock/skills) - Composable engineering skills covering TDD, diagnosis, architecture, triage, and domain-driven documentation.
 - [Obsidian Skills](https://github.com/kepano/obsidian-skills) by Steph Ango - Agent skills for Obsidian, teaching your coding agent to use Obsidian Markdown, Bases, JSON Canvas, CLI, and Defuddle. Follows the Agent Skills specification, compatible with Claude Code, Codex CLI, OpenCode, and more.
+- [**pstack**](https://github.com/cursor/plugins/tree/main/pstack) - Cursor plugin with engineering skills and playbooks for investigation, implementation, review, and verification.
 - [Startup Claude Skills](https://github.com/EricTechPro/startup-claude-skills) by Eric Tech - Reusable Claude Code skills for startups, covering bug fixing, feature development, PR review, automated review-fix loops, and headless browser QA testing.
 - [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) by NextLevelBuilder - AI skill for professional UI/UX development with intelligent design-system generation, multi-platform stack guidance, and practical workflow support for coding agents.
 - [Vercel React Best Practices](https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md) by Vercel - React and Next.js performance optimization guidelines with 70 rules across 8 categories for writing, reviewing, and refactoring frontend code.

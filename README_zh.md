@@ -48,6 +48,7 @@
 
 ## 运行时、工具链与生产运维
 
+- [Writing Effective Tools for Agents — with Agents](https://www.anthropic.com/research/writing-tools-for-agents) - Anthropic 关于设计、评估和改进 AI 智能体工具的指南。
 - [The OSS LLMOps Stack](https://oss-llmops-stack.com/) by LiteLLM and Langfuse - 覆盖模型路由、可观测性与生产工作流的开源 LLMOps 栈参考页面。
 - [OpenAI API Pricing](https://developers.openai.com/api/docs/pricing#web-search) by OpenAI - OpenAI 官方 API 定价参考，覆盖旗舰、多模态、专项与微调模型，并包含 Web Search、File Search、Containers 与 Agent Kit 等工具成本。
 - [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) by asgeirtj - 用于分析与比较 AI 产品系统提示词的公开与泄露提示词精选合集。
@@ -83,13 +84,14 @@
 
 ### Skills
 
-- [Agent Skills](https://github.com/addyosmani/agent-skills) by Addy Osmani - 面向 AI 编程智能体的生产级工程技能包，覆盖 23 个生命周期技能、斜杠命令、专家 persona 与以验证为核心的工作流。
+- [**Agent Skills**](https://github.com/addyosmani/agent-skills) - Addy Osmani 为 AI 编程智能体打造的生产级工程技能集，涵盖开发生命周期技能和以验证为核心的工作流。
 - [Andrej Karpathy Skills](https://github.com/forrestchang/andrej-karpathy-skills) by Jiayuan Zhang - 受 Karpathy 启发的 CLAUDE.md 指南，针对 LLM 编程缺陷提出四项原则：先思考再编码、简洁优先、精准修改、目标驱动执行。
 - [Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills) by Multica AI - 受 Karpathy 启发的 Claude Code 指南，用于规避 LLM 编程陷阱，强调先思考再编码、简洁优先、精准修改与目标驱动执行。
 - [Anthropic Skills](https://github.com/anthropics/skills) by Anthropic - Anthropic 官方 Claude Code 技能集，包括 skill-creator（创建、评估和优化技能并提供基准测试）等。
 - [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skills) by VoltAgent - 精选 1100+ 智能体技能合集，来自官方开发团队和社区，兼容 Claude Code、Codex、Gemini CLI、Cursor 等。
-- [Matt Pocock Skills](https://github.com/mattpocock/skills) by Matt Pocock - 面向真实工程的小型可组合智能体技能——涵盖深度审查、TDD、诊断循环、代码架构改进、分类和领域驱动文档。兼容 Claude Code、Codex 及其他编程智能体。
+- [**Matt Pocock Skills**](https://github.com/mattpocock/skills) - 可组合的工程技能集，涵盖 TDD、诊断、架构、问题分类和领域驱动文档。
 - [Obsidian Skills](https://github.com/kepano/obsidian-skills) by Steph Ango - 面向 Obsidian 的智能体技能，教编程智能体使用 Obsidian Markdown、Bases、JSON Canvas、CLI 和 Defuddle。遵循 Agent Skills 规范，兼容 Claude Code、Codex CLI、OpenCode 等。
+- [**pstack**](https://github.com/cursor/plugins/tree/main/pstack) - Cursor 插件，提供涵盖调查、实现、审查和验证的工程技能与工作流程。
 - [Startup Claude Skills](https://github.com/EricTechPro/startup-claude-skills) by Eric Tech - 面向初创团队的可复用 Claude Code 技能，涵盖 Bug 修复、功能开发、PR 审查、自动审查-修复循环和无头浏览器 QA 测试。
 - [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) by NextLevelBuilder - 面向编程智能体的专业 UI/UX AI 技能，提供智能设计系统生成、多平台栈指导与实用工作流支持。
 - [Vercel React Best Practices](https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md) by Vercel - 面向 React 和 Next.js 的性能优化指南，包含 8 大类别下的 70 条规则，适用于前端代码编写、审查与重构。
