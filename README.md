@@ -81,6 +81,7 @@ This layer follows the delivery chain from requirement and architecture to codin
 - [Harness Engineering: from Claude Code to AI Coding](https://zhanghandong.github.io/harness-engineering-from-cc-to-ai-coding/) by Handong Zhang - Practical guide to harness engineering for AI coding workflows, covering setup patterns, agent collaboration, and implementation practices.
 - [Learn Claude Code](https://learn.shareai.run/en/) by CrazyBoyM / shareAI-lab - 19 chapters across 4 stages, from the minimal agent loop to a multi-agent platform, covering tool use, subagents, skills, context compaction, permissions, hooks, memory, error recovery, task scheduling, team protocols, worktree isolation, and MCP.
 - [How We Built Ellipsis](https://www.ellipsis.dev/blog/how-we-built-ellipsis) by Nick Bradford - Engineering retrospective on building LLM coding agents over 27 months.
+- [agent-qa](https://vostride.com) - Natural-language QA for Web, Android, and iOS through CLI/MCP, with inspectable evidence, persistent memidex memory, and evidence-based self-improvement.
 
 ### Skills
 
